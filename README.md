@@ -17,8 +17,8 @@ Usage:
                 <version>${hyperjaxb3.version}</version>
                 <dependencies>
                     <dependency>
-                        <groupId>mysql-reserved-words</groupId>
-                        <artifactId>mysql-reserved-words</artifactId>
+                        <groupId>hjb3-mysql-reserved-words</groupId>
+                        <artifactId>hjb3-mysql-reserved-words</artifactId>
                         <version>1.0-SNAPSHOT</version>
                     </dependency>
                 </dependencies>
