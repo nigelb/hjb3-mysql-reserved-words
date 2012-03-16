@@ -5,6 +5,7 @@ hjb3-mysql-reserved-words
 This plugin provides a ReservedNames.properties for use by HyperJAXB3. 
 It containing all MySQL reserved Words. 
 
+Usage:
 
     <project>
         [...]
